@@ -1,7 +1,7 @@
 # nineparchments-font
 
 ## About
-This is font of the game Nine Parchments company [Frozenbyte](http://frozenbyte.com/),
+This is font of the game [Nine Parchments](http://www.nineparchments.com/) company [Frozenbyte](http://frozenbyte.com/),
 modified for support Russian,Ukrainian language.
 All rights reserved to Frozenbyte company.
 
