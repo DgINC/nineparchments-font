@@ -44,6 +44,9 @@ ex.
 And copy new **"script1.fbq"** **"gui1.fbq"** files in game directory. Done!
 
 ## Pictures
+_Current state_
+![alt-текст](../master/2018-10-11_07-23-24.png "Current state")
+
 ~~Screenshots are relevant for October 9, 2018.~~ Images are out of date.
 ### Before
 ![alt-текст](../master/2018-10-09_16-44-50.png "Before")
