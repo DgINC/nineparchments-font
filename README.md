@@ -49,9 +49,9 @@ And copy new **"script1.fbq"** **"gui1.fbq"** files in game directory. Done!
 ![alt-текст](../master/img/original_hitsandtips.png "Before")
 
 ### After
-![alt-текст](../master/2018-10-15_13-19-01.png "After")
-![alt-текст](../master/2018-10-15_13-20-20.png "After")
-![alt-текст](../master/2018-10-15_13-21-18.png "After")
+![alt-текст](../master/img/2018-10-15_13-19-01.png "After")
+![alt-текст](../master/img/2018-10-15_13-20-20.png "After")
+![alt-текст](../master/img/2018-10-15_13-21-18.png "After")
 
 ## Links
 [Frozenbyte](http://frozenbyte.com/)
