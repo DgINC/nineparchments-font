@@ -44,15 +44,14 @@ ex.
 And copy new **"script1.fbq"** **"gui1.fbq"** files in game directory. Done!
 
 ## Pictures
-_Current state_
-![alt-текст](../master/2018-10-11_07-23-24.png "Current state")
-
-~~Screenshots are relevant for October 9, 2018.~~ Images are out of date.
 ### Before
-![alt-текст](../master/2018-10-09_16-44-50.png "Before")
+![alt-текст](../master/img/original_mainmenu.png "Before")
+![alt-текст](../master/img/original_hitsandtips.png "Before")
 
 ### After
-![alt-текст](../master/2018-10-09_16-39-04.png "After")
+![alt-текст](../master/img/2018-10-15_13-19-01.png "After")
+![alt-текст](../master/img/2018-10-15_13-20-20.png "After")
+![alt-текст](../master/img/2018-10-15_13-21-18.png "After")
 
 ## Links
 [Frozenbyte](http://frozenbyte.com/)
