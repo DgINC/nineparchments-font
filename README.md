@@ -18,8 +18,8 @@ Go to the game directory find **"script1.fbq"** **"gui1.fbq"** files and create 
 Extract **"script1.fbq"** **"gui1.fbq"** archive to any directory with the FB archiver.
 ```
 ex.
->archiver.exe -exctract=script1.fbq C:\Temp\script1
->archiver.exe -exctract=gui1.fbq C:\Temp\gui1
+>archiver.exe -extract=script1.fbq C:\Temp\script1
+>archiver.exe -extract=gui1.fbq C:\Temp\gui1
 ```
 Clone repository, and compile two copy **"locale_settings.lua"** with LUA compiler.
 ```
